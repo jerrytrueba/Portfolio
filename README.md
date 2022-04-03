@@ -9,5 +9,5 @@ https://jerrytrueba.github.io/Portfolio/
 
 
 Screenshot!
-![](assets/images/Screenshot.png)
+![](Assets/Images/Screenshot.png)
 
